@@ -16,7 +16,7 @@
 
 ## Ссылки
 
-Scenes
+Scenes (on [Black-minecraft.com](https://black-minecraft.com)) 
 - [NPC - Жители города](https://black-minecraft.com/resources/scenes-townsfolks-vol-1-2.8420/)
 - [Environment - Голуби](https://black-minecraft.com/resources/scenes-pigeons-environment.7999/) 
 - [Environment - Бабочки](https://black-minecraft.com/resources/scenes-butterflies-environment.7989/) 
@@ -29,7 +29,7 @@ Plugins **original**
 - [MythicMobs Premium](https://www.mythicmobs.net/index.php?pages/store/)  
 - [DeluxeMenus](https://www.spigotmc.org/resources/deluxemenus.11734/)
 
-Plugins on [Black-minecraft.com](https://black-minecraft.com)
+Plugins (on [Black-minecraft.com](https://black-minecraft.com)) 
 - [Black MythicMobs Dev](https://black-minecraft.com/resources/mythicmobs-dev-builds-premium.4171/ )
 - [Black MythicMobs](https://black-minecraft.com/resources/mythicmobs-premium.1180/) 
 - [Black Itemsadder](https://black-minecraft.com/resources/itemsadder.27/)
