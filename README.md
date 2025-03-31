@@ -5,7 +5,7 @@
 
 ## Оглавление
 
-1. [Необходимые плагины](#необходимые-плагины)  
+1. [Все ссылки](#ссылки)  
 2. [Установка плагинов на сервер](#установка-плагинов-на-сервер)  
 3. [Добавление скинов](#добавление-скинов)  
 4. [DeluxeMenus](#deluxemenus)  
@@ -15,8 +15,17 @@
 
 ---
 
-## Необходимые плагины
+## Ссылки
 
+Scenes
+- [NPC vol1&vol2](https://black-minecraft.com/resources/scenes-townsfolks-vol-1-2.8420/)
+- [Голуби](https://black-minecraft.com/resources/scenes-pigeons-environment.7999/) 
+- [Бабочки](https://black-minecraft.com/resources/scenes-butterflies-environment.7989/) 
+- [Вороны](https://black-minecraft.com/resources/scenes-crows-environment.7988/) 
+- [Кузнец](https://black-minecraft.com/resources/scenes-blacksmith-npc.7846/) 
+- [Колокольчики по ветру](https://black-minecraft.com/resources/scenes-wind-chimes-environment.7998/) 
+
+Plugins original
 - [ModelEngine 4.0](https://www.spigotmc.org/resources/modelengine.79477/)  
 - [Black Model Engine Dev premium](https://black-minecraft.com/resources/model-engine-premium-4-x.3815/)
 - [Black Model Engine premium](https://black-minecraft.com/resources/conxeptworks-model-engine.1086/) 
@@ -48,9 +57,6 @@ plugins/ModelEngine/blueprints/Scenes/Scenes/Skins
 ````
 
 > **Примечание:** Скины должны быть в формате **64x64**, а не в старом **64x32**. Названия файлов не должны содержать заглавных букв или спецсимволов.
-
-Вот полностью переведённый на русский язык пункт 3, с сохранением всех деталей и форматирования оригинала:
-
 
 ---
 
@@ -113,8 +119,9 @@ plugins/DeluxeMenus/gui_menus
 
 ### Обновление ресурс-пака:
 
-> Можно использовать Nexo, ItemsAdder для генерации и обновления ресурс пака. (в ItemsAdder в конфигурации надо поставить следующую конфигурацию:```
-> merge_other_plugins_resourcepacks_folders:
+> Можно использовать Nexo, ItemsAdder для генерации и обновления ресурс пака. (в ItemsAdder в конфигурации надо проверить установку model engine рп:
+```
+merge_other_plugins_resourcepacks_folders:
     - ModelEngine/resource pack```)
 
 ---
