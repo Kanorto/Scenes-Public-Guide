@@ -1,4 +1,3 @@
-
 Данное руководство поможет вам установить и настроить сцены на сервере Minecraft с использованием ModelEngine, MythicMobs и DeluxeMenus. Выполняйте шаги внимательно, чтобы избежать ошибок.
 
 ---
@@ -18,22 +17,24 @@
 ## Ссылки
 
 Scenes
-- [NPC vol1&vol2](https://black-minecraft.com/resources/scenes-townsfolks-vol-1-2.8420/)
-- [Голуби](https://black-minecraft.com/resources/scenes-pigeons-environment.7999/) 
-- [Бабочки](https://black-minecraft.com/resources/scenes-butterflies-environment.7989/) 
-- [Вороны](https://black-minecraft.com/resources/scenes-crows-environment.7988/) 
-- [Кузнец](https://black-minecraft.com/resources/scenes-blacksmith-npc.7846/) 
-- [Колокольчики по ветру](https://black-minecraft.com/resources/scenes-wind-chimes-environment.7998/) 
+- [NPC - Жители города](https://black-minecraft.com/resources/scenes-townsfolks-vol-1-2.8420/)
+- [Environment - Голуби](https://black-minecraft.com/resources/scenes-pigeons-environment.7999/) 
+- [Environment - Бабочки](https://black-minecraft.com/resources/scenes-butterflies-environment.7989/) 
+- [Environment - Вороны](https://black-minecraft.com/resources/scenes-crows-environment.7988/) 
+- [NPC - Кузнец](https://black-minecraft.com/resources/scenes-blacksmith-npc.7846/) 
+- [Environment - Колокольчики по ветру](https://black-minecraft.com/resources/scenes-wind-chimes-environment.7998/) 
 
-Plugins original
+Plugins **original**
 - [ModelEngine 4.0](https://www.spigotmc.org/resources/modelengine.79477/)  
-- [Black Model Engine Dev premium](https://black-minecraft.com/resources/model-engine-premium-4-x.3815/)
-- [Black Model Engine premium](https://black-minecraft.com/resources/conxeptworks-model-engine.1086/) 
 - [MythicMobs Premium](https://www.mythicmobs.net/index.php?pages/store/)  
+- [DeluxeMenus](https://www.spigotmc.org/resources/deluxemenus.11734/)
+
+Plugins on [Black-minecraft.com](https://black-minecraft.com)
 - [Black MythicMobs Dev](https://black-minecraft.com/resources/mythicmobs-dev-builds-premium.4171/ )
 - [Black MythicMobs](https://black-minecraft.com/resources/mythicmobs-premium.1180/) 
-- [DeluxeMenus](https://www.spigotmc.org/resources/deluxemenus.11734/)
 - [Black Itemsadder](https://black-minecraft.com/resources/itemsadder.27/)
+- [Black Model Engine Dev premium](https://black-minecraft.com/resources/model-engine-premium-4-x.3815/)
+- [Black Model Engine premium](https://black-minecraft.com/resources/conxeptworks-model-engine.1086/)  
 
 ---
 
@@ -74,16 +75,16 @@ plugins\ModelEngine\blueprints\Scenes\Scenes\Skins
 ``` 
 Примечание от переводчика:
 
-Работаю над ботом, который сможет автоматически это делать для вас. То есть пути и скины скорее всего будут переделываться. 
+Работаю над ботом, который сможет автоматически это делать для вас. То есть пути и скины скорее всего будут переделываться автоматически. 
 ```
 
 
 ---
 
-Генерация иконок для скинов:
-Перетащите сгенерированные ботом .bbmodel файлы ваших скинов в один из следующих каналов, в зависимости от того, что вы используете — Nexo или ItemsAdder.
+~~Генерация иконок для скинов:~~
+~~Перетащите сгенерированные ботом .bbmodel файлы ваших скинов в один из следующих каналов, в зависимости от того, что вы используете — Nexo или ItemsAdder.~~
 
-Затем скачайте сгенерированные конфигурации для DeluxeMenus и поместите их в: `plugins\DeluxeMenus\gui_menus`
+~~Затем скачайте сгенерированные конфигурации для DeluxeMenus и поместите их в: `plugins\DeluxeMenus\gui_menus~~`
 
 
 ---
