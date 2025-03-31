@@ -1,0 +1,33 @@
+# Лицензия и Отказ от Ответственности / License and Disclaimer
+
+---
+
+## Русская версия
+
+### 1. Общие положения
+Настоящий документ (далее «Лицензия») регулирует условия использования, копирования, распространения и модификации материалов, опубликованных в данном репозитории (далее «Материалы»). Материалы предоставляются без каких-либо ограничений, с правом свободного использования, модификации и распространения при условии соблюдения условий настоящей Лицензии.
+
+### 2. Отказ от гарантий и ответственности
+Материалы предоставляются «как есть», без каких-либо гарантий, как явных, так и подразумеваемых. Автор(ы) не гарантируют точность, полноту или актуальность представленных данных. Данный материал был написан автором при вдохновении оригинальным гайдом, чтобы люди на русском языке могли прочитать его. За любые ошибки, неточности или убытки, возникшие в результате использования Материалов, автор(ы) не несут никакой ответственности.
+
+### 3. Ограничение ответственности
+Ни при каких обстоятельствах автор(ы) не несут ответственности за любые прямые, косвенные, случайные, специальные, побочные или последующие убытки, включая, но не ограничиваясь, потерей данных, упущенной прибылью или иными убытками, возникающими из использования или невозможности использования Материалов.
+
+### 4. Прочие положения
+Используя Материалы, вы соглашаетесь с условиями настоящей Лицензии. При возникновении вопросов или споров, связанных с использованием Материалов, рекомендуется обратиться за квалифицированной юридической консультацией. Настоящая Лицензия не отменяет и не ограничивает законодательно установленные права и обязательства.
+
+---
+
+## English version
+
+### 1. General Provisions
+This document (hereinafter referred to as the "License") governs the terms of use, copying, distribution, and modification of the materials published in this repository (hereinafter referred to as the "Materials"). The Materials are provided without any restrictions, with the right to use, modify, and distribute freely, provided that the terms of this License are followed.
+
+### 2. Disclaimer of Warranties and Liability
+The Materials are provided "as is", without any warranties, either express or implied. The author(s) do not warrant the accuracy, completeness, or timeliness of the information provided. This material was written by the author, inspired by the original guide, to allow Russian-speaking people to read it. The author(s) assume no liability for any errors, inaccuracies, or damages arising from the use of the Materials.
+
+### 3. Limitation of Liability
+Under no circumstances shall the author(s) be liable for any direct, indirect, incidental, special, consequential, or exemplary damages, including but not limited to loss of data, lost profits, or other damages arising from the use or inability to use the Materials.
+
+### 4. Miscellaneous
+By using the Materials, you agree to the terms of this License. In case of any questions or disputes arising from the use of the Materials, it is recommended that you seek qualified legal counsel. This License does not waive or limit any rights or obligations established by applicable law. 
