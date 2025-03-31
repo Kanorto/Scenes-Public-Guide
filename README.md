@@ -1,3 +1,17 @@
+## Disclaimer:
+---
+Русская версия
+
+Все материалы, размещённые в данном репозитории, являются оригинальными произведениями, созданными автором на основе вдохновения оригинальным гайдом. Перевод и адаптация оригинального гайда на русский язык осуществлены исключительно с целью повышения удобства и информированности пользователей и читателей. Автор не имеет намерения нанести ущерб каким-либо лицам, не нарушает авторские права и предоставляет материалы исключительно для бесплатного и законного использования.
+
+
+---
+
+English Version
+
+All materials published in this repository are original works created by the author, inspired by the original guide. The translation and adaptation of the original guide into Russian have been carried out solely to enhance the convenience and information available to users and readers. The author does not intend to cause harm to any party, does not infringe on any copyrights, and provides the materials exclusively for free and lawful use.
+---
+
 Данное руководство поможет вам установить и настроить сцены на сервере Minecraft с использованием ModelEngine, MythicMobs и DeluxeMenus. Выполняйте шаги внимательно, чтобы избежать ошибок.
 
 ### Посмотреть Видео от автора можно в [отдельном файле](https://github.com/Kanorto/Scenes-Public-Guide/blob/main/VideoGuide). 
