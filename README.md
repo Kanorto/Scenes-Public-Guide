@@ -10,6 +10,7 @@
 English Version
 
 All materials published in this repository are original works created by the author, inspired by the original guide. The translation and adaptation of the original guide into Russian have been carried out solely to enhance the convenience and information available to users and readers. The author does not intend to cause harm to any party, does not infringe on any copyrights, and provides the materials exclusively for free and lawful use.
+
 ---
 
 Данное руководство поможет вам установить и настроить сцены на сервере Minecraft с использованием ModelEngine, MythicMobs и DeluxeMenus. Выполняйте шаги внимательно, чтобы избежать ошибок.
