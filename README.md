@@ -140,13 +140,15 @@ plugins/DeluxeMenus/gui_menus
 > Можно использовать Nexo, ItemsAdder для генерации и обновления ресурс пака. (в ItemsAdder в конфигурации надо проверить установку model engine рп:
 ```
 merge_other_plugins_resourcepacks_folders:
-    - ModelEngine/resource pack```)
+    - ModelEngine/resource pack
+```
 
 ---
 
 ## Добавление звуков (опционально)
 
 Если вы хотите добавить звуки к сценам, у вас есть два варианта:
+**Для людей которые используют сборку всех сливов от Kanorto это не требуется**
 
 ### Option 1: Через плагин-менеджер ресурспаков
 
@@ -175,6 +177,7 @@ interact_1:
 ```
 
 Замените `your_sound_name` на ваш звук, и **уберите `#`** в строке `sound`.
+
 
 ---
 
@@ -215,7 +218,7 @@ interact_1:
     Примеры: `mine1`, `mine2`, `farm3`, `farm4`, `lumberjack5`, `lumberjack6`
 
 > **Важно:** Не используйте `Mythic` как pack — это не будет работать.  
-> Если не видите доступный pack, создайте новый и поместите его в папку `mythicmobs/packs`.
+> Если не видите доступный pack, создайте новый и поместите его в папку `mythicmobs/packs`(создайте новую папку лол).
 
 
 
