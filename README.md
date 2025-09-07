@@ -88,8 +88,6 @@ All materials published in this repository are original works created by the aut
 > Примечание: Скины, которые вы загружаете и используете, должны быть в формате 64x64, а не в устаревшем формате 64x32.
 > Имя скина не должно содержать заглавных букв или специальных символов, иначе ModelEngine не сможет его загрузить.
 
----
-
 Используйте [скрипт](https://black-minecraft.com/resources/scenes-tool-change-skin.8640/) для создания bbmodel и меню. Для этого загрузите архив, переместите ваши скины (желательно весь сразу чтобы потом не ломать меню), и запустите скрипт.
 После его завершения конфигурации DeluxeMenus надо поместить из `папка выполнения скрипта/menus` в: `plugins\DeluxeMenus\gui_menus`. Все файлы из папки `output` надо перенести в `plugins/ModelEngine/blueprints/Scenes/Scenes/Skins` 
 
@@ -118,41 +116,6 @@ All materials published in this repository are original works created by the aut
 merge_other_plugins_resourcepacks_folders:
     - ModelEngine/resource pack
 ```
----
-
-## Добавление звуков (НЕДОСТУПНО!)
-
-Если вы хотите добавить звуки к сценам, у вас есть два варианта:
-
-
-### Option 1: Через плагин-менеджер ресурспаков
-
-Например: **Nexo**, **ItemsAdder**
-
-### Option 2: Вручную
-
-1. Добавьте `.ogg` файлы в папку `sounds` вашего ресурспака.
-2. Используйте Discord-бота для генерации `sounds.json`.  
-    Отправьте ему название папки и именя звуков.
-3. Вставьте сгенерированные строки в `sounds.json`.
-
-### Настройка в MythicMobs:
-
-- Откройте папку MythicMobs.
-- Перейдите в `Mobs`, выберите нужный конфиг.
-- Найдите блок, похожий на:
-
-```yaml
-interact_1:
-  Cooldown: 8.7083
-  Skills:
-  # - sound{s=your_sound_name} @self
-  - state{s=interact;mid=scene_townsfold_1;lo=4;li=4} @self
-  - lockhead{lp=true} @self
-```
-
-Замените `your_sound_name` на ваш звук, и **уберите `#`** в строке `sound`.
-
 
 ---
 
@@ -194,6 +157,41 @@ interact_1:
 3. Имя Pin'а можно найти в описании NPC в сцене.  
     Примеры: `mine1`, `mine2`, `farm3`, `farm4`, `lumberjack5`, `lumberjack6`
 
+
+---
+
+## Добавление звуков (Неактуально!)
+
+Если вы хотите добавить звуки к сценам, у вас есть два варианта:
+
+
+### Option 1: Через плагин-менеджер ресурспаков
+
+Например: **Nexo**, **ItemsAdder**
+
+### Option 2: Вручную
+
+1. Добавьте `.ogg` файлы в папку `sounds` вашего ресурспака.
+2. Используйте Discord-бота для генерации `sounds.json`.  
+    Отправьте ему название папки и именя звуков.
+3. Вставьте сгенерированные строки в `sounds.json`.
+
+### Настройка в MythicMobs:
+
+- Откройте папку MythicMobs.
+- Перейдите в `Mobs`, выберите нужный конфиг.
+- Найдите блок, похожий на:
+
+```yaml
+interact_1:
+  Cooldown: 8.7083
+  Skills:
+  # - sound{s=your_sound_name} @self
+  - state{s=interact;mid=scene_townsfold_1;lo=4;li=4} @self
+  - lockhead{lp=true} @self
+```
+
+Замените `your_sound_name` на ваш звук, и **уберите `#`** в строке `sound`.
 
 
 
