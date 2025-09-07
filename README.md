@@ -33,14 +33,27 @@ All materials published in this repository are original works created by the aut
 
 ## Ссылки
 
-Scenes (on [Black-minecraft.com](https://black-minecraft.com)) 
-- [NPC - Жители города](https://black-minecraft.com/resources/scenes-townsfolks-vol-1-2.8420/)
+Scenes (на [Black-minecraft.com](https://black-minecraft.com) и скачанное с нуллфорумс(будьте внимательны!)) 
+### Environment
 - [Environment - Голуби](https://black-minecraft.com/resources/scenes-pigeons-environment.7999/) 
 - [Environment - Бабочки](https://black-minecraft.com/resources/scenes-butterflies-environment.7989/) 
 - [Environment - Вороны](https://black-minecraft.com/resources/scenes-crows-environment.7988/) 
-- [NPC - Кузнец](https://black-minecraft.com/resources/scenes-blacksmith-npc.7846/) 
 - [Environment - Колокольчики по ветру](https://black-minecraft.com/resources/scenes-wind-chimes-environment.7998/)
 - [Создание меню и bbmodel](https://black-minecraft.com/resources/scenes-tool-change-skin.8640/)
+- [Пауки (СКАЧАНО С NULLFORUMS!)](https://www.dropbox.com/scl/fi/74k4v7e2cgfjtjv647ply/scenes_spiders.zip?rlkey=0kngowhr73ezddvd3isur9cog&st=c546sa45&dl=0)
+- [Транспорт путников](https://www.dropbox.com/scl/fi/87dc1c8fxkikv0yxe0yu9/4.0_scenes_wanderers_transport_vol1.zip?rlkey=hq9r4yn8mfbe2ckiwcs3u4pxv&st=imv6k23k&dl=0)
+- [Лозы](https://www.dropbox.com/scl/fi/3xzg0fhmzyu894b9axpbe/Scenes-jungle-vines.zip?rlkey=gvuwh3juhjopnzqed25n9mxwc&st=9g93qdwl&dl=0)
+### NPCS
+- [Жители города 1+2 (Были удалены с Black-Minecraft)](https://www.dropbox.com/scl/fi/6cy4jmtry569fjsds3ph3/scenes_townsfolks_vol1-2.zip?rlkey=kdm3li0dpkeqm2g4bcf3lqfo0&st=esawnm6a&dl=0)
+- [Жители города 3](https://black-minecraft.com/resources/scenes-townsfolks-vol-3-npc.8876/)
+- [Жители города 4 (Sponsor role need)](https://black-minecraft.com/resources/scenes-townsfolks-vol-4-npc.8886/)
+- [Рыбак](https://black-minecraft.com/resources/scenes-fishermen-npc.9038/)
+- [Кузнец](https://black-minecraft.com/resources/scenes-blacksmith-npc.7846/) 
+- [Фермер](https://black-minecraft.com/resources/scenes-farmers-npc.9037/)
+- [Боевые 1](https://black-minecraft.com/resources/scenes-combat-vol-1-npc.8881/)
+- [Шахтеры 1 (СКАЧАНО С NULLFORUMS!](https://www.dropbox.com/scl/fi/tmah3d9kmsl9fca2kxhba/Scenes-Miners-1.zip?rlkey=zw7z9qrkq4jqogdyvsa2vx1ig&st=fbh9mqb0&dl=0)
+- [Путники 1 (СКАЧАНО С NULLFORUMS!](https://www.dropbox.com/scl/fi/sj7ismn60i4bjoc3d1wax/Scenes-wanderers-vol-1-1.zip?rlkey=zvxvnrvpoodjtx8f41zj9feml&st=85nm1xqg&dl=0)
+- [Охранники 1](https://www.dropbox.com/scl/fi/292elcmjm50os9hzayezh/Scenes-guards-vol-1-1.zip?rlkey=bexljcge1su0mwz0mkp4rpypg&st=t7tiyfkh&dl=0)
 
 Plugins **original**
 - [ModelEngine 4.0](https://www.spigotmc.org/resources/modelengine.79477/)  
