@@ -32,16 +32,16 @@ All materials published in this repository are original works created by the aut
 
 ## Ссылки
 
-### Scenes (на [Black-minecraft.com](https://black-minecraft.com) и скачанное с нуллфорумс(будьте внимательны!)) 
+### Scenes (на [Black-minecraft.com](https://black-minecraft.com) и скачанное с нуллфорумс(будьте внимательны!). То что скачано с этого форума - Является прямой ссылкой на dropbox И указано.) 
   
 **Environment**
 - [Голуби](https://black-minecraft.com/resources/scenes-pigeons-environment.7999/) 
 - [Бабочки](https://black-minecraft.com/resources/scenes-butterflies-environment.7989/) 
 - [Вороны](https://black-minecraft.com/resources/scenes-crows-environment.7988/) 
 - [Колокольчики по ветру](https://black-minecraft.com/resources/scenes-wind-chimes-environment.7998/)
-- [Пауки (СКАЧАНО С NULLFORUMS!)](https://www.dropbox.com/scl/fi/74k4v7e2cgfjtjv647ply/scenes_spiders.zip?rlkey=0kngowhr73ezddvd3isur9cog&st=c546sa45&dl=0)
-- [Транспорт путников(СКАЧАНО С NULLFORUMS!)](https://www.dropbox.com/scl/fi/87dc1c8fxkikv0yxe0yu9/4.0_scenes_wanderers_transport_vol1.zip?rlkey=hq9r4yn8mfbe2ckiwcs3u4pxv&st=imv6k23k&dl=0)
-- [Лозы(СКАЧАНО С NULLFORUMS!)](https://www.dropbox.com/scl/fi/3xzg0fhmzyu894b9axpbe/Scenes-jungle-vines.zip?rlkey=gvuwh3juhjopnzqed25n9mxwc&st=9g93qdwl&dl=0)
+- [Пауки (Скачано со стороннего форума)](https://www.dropbox.com/scl/fi/74k4v7e2cgfjtjv647ply/scenes_spiders.zip?rlkey=0kngowhr73ezddvd3isur9cog&st=c546sa45&dl=0)
+- [Транспорт путников (Скачано со стороннего форума)](https://www.dropbox.com/scl/fi/87dc1c8fxkikv0yxe0yu9/4.0_scenes_wanderers_transport_vol1.zip?rlkey=hq9r4yn8mfbe2ckiwcs3u4pxv&st=imv6k23k&dl=0)
+- [Лозы (Скачано со стороннего форума)](https://www.dropbox.com/scl/fi/3xzg0fhmzyu894b9axpbe/Scenes-jungle-vines.zip?rlkey=gvuwh3juhjopnzqed25n9mxwc&st=9g93qdwl&dl=0)
   
 **NPCS**
   
@@ -52,9 +52,9 @@ All materials published in this repository are original works created by the aut
 - [Кузнец](https://black-minecraft.com/resources/scenes-blacksmith-npc.7846/) 
 - [Фермер](https://black-minecraft.com/resources/scenes-farmers-npc.9037/)
 - [Боевые 1](https://black-minecraft.com/resources/scenes-combat-vol-1-npc.8881/)
-- [Шахтеры 1 (СКАЧАНО С NULLFORUMS!](https://www.dropbox.com/scl/fi/tmah3d9kmsl9fca2kxhba/Scenes-Miners-1.zip?rlkey=zw7z9qrkq4jqogdyvsa2vx1ig&st=fbh9mqb0&dl=0)
-- [Путники 1 (СКАЧАНО С NULLFORUMS!](https://www.dropbox.com/scl/fi/sj7ismn60i4bjoc3d1wax/Scenes-wanderers-vol-1-1.zip?rlkey=zvxvnrvpoodjtx8f41zj9feml&st=85nm1xqg&dl=0)
-- [Охранники 1(СКАЧАНО С NULLFORUMS!)](https://www.dropbox.com/scl/fi/292elcmjm50os9hzayezh/Scenes-guards-vol-1-1.zip?rlkey=bexljcge1su0mwz0mkp4rpypg&st=t7tiyfkh&dl=0)
+- [Шахтеры 1 (Скачано со стороннего форума)](https://www.dropbox.com/scl/fi/tmah3d9kmsl9fca2kxhba/Scenes-Miners-1.zip?rlkey=zw7z9qrkq4jqogdyvsa2vx1ig&st=fbh9mqb0&dl=0)
+- [Путники 1 (Скачано со стороннего форума)](https://www.dropbox.com/scl/fi/sj7ismn60i4bjoc3d1wax/Scenes-wanderers-vol-1-1.zip?rlkey=zvxvnrvpoodjtx8f41zj9feml&st=85nm1xqg&dl=0)
+- [Охранники 1 (Скачано со стороннего форума)](https://www.dropbox.com/scl/fi/292elcmjm50os9hzayezh/Scenes-guards-vol-1-1.zip?rlkey=bexljcge1su0mwz0mkp4rpypg&st=t7tiyfkh&dl=0)
   
 **Скрипт [Создание меню и bbmodel](https://black-minecraft.com/resources/scenes-tool-change-skin.8640/)**
 
