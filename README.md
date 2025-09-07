@@ -39,7 +39,8 @@ Scenes (on [Black-minecraft.com](https://black-minecraft.com))
 - [Environment - Бабочки](https://black-minecraft.com/resources/scenes-butterflies-environment.7989/) 
 - [Environment - Вороны](https://black-minecraft.com/resources/scenes-crows-environment.7988/) 
 - [NPC - Кузнец](https://black-minecraft.com/resources/scenes-blacksmith-npc.7846/) 
-- [Environment - Колокольчики по ветру](https://black-minecraft.com/resources/scenes-wind-chimes-environment.7998/) 
+- [Environment - Колокольчики по ветру](https://black-minecraft.com/resources/scenes-wind-chimes-environment.7998/)
+- [Создание меню и bbmodel](https://black-minecraft.com/resources/scenes-tool-change-skin.8640/)
 
 Plugins **original**
 - [ModelEngine 4.0](https://www.spigotmc.org/resources/modelengine.79477/)  
@@ -67,57 +68,15 @@ Plugins (on [Black-minecraft.com](https://black-minecraft.com))
 
 ## Добавление скинов
 
-### ~~Шаг 1. Верификация продукта~~
-
-### Шаг 2: Путь к скинам:
-```plaintext
-plugins/ModelEngine/blueprints/Scenes/Scenes/Skins
-````
-
-> **Примечание:** Скины должны быть в формате **64x64**, а не в старом **64x32**. Названия файлов не должны содержать заглавных букв или спецсимволов.
-
----
-
-## 3. Добавление ваших скинов
-
-### Перейдите в папку со скинами:
-plugins\ModelEngine\blueprints\Scenes\Scenes\Skins
-
 > Примечание: Скины, которые вы загружаете и используете, должны быть в формате 64x64, а не в устаревшем формате 64x32.
 > Имя скина не должно содержать заглавных букв или специальных символов, иначе ModelEngine не сможет его загрузить.
 
-~~Перетащите свои скины в канал с ботом~~
-
-~~Скачайте и перетащите файл .bbmodel, который бот прислал вам в личные сообщения, в папку со скинами.~~
-``` 
-Примечание от переводчика:
-
-Работаю над ботом, который сможет автоматически это делать для вас. То есть пути и скины скорее всего будут переделываться автоматически. 
-```
-
-
 ---
 
-~~Генерация иконок для скинов:~~
-~~Перетащите сгенерированные ботом .bbmodel файлы ваших скинов в один из следующих каналов, в зависимости от того, что вы используете — Nexo или ItemsAdder.~~
+Используйте [скрипт](https://black-minecraft.com/resources/scenes-tool-change-skin.8640/) для создания bbmodel и меню. Для этого загрузите архив, переместите ваши скины (желательно весь сразу чтобы потом не ломать меню), и запустите скрипт.
+После его завершения конфигурации DeluxeMenus надо поместить из `папка выполнения скрипта/menus` в: `plugins\DeluxeMenus\gui_menus`. Все файлы из папки `output` надо перенести в `plugins/ModelEngine/blueprints/Scenes/Scenes/Skins` 
 
-~~Затем скачайте сгенерированные конфигурации для DeluxeMenus и поместите их в: `plugins\DeluxeMenus\gui_menus~~`
-
-
----
-
-## DeluxeMenus
-
-1. Перейдите в папку:
-
-```plaintext
-plugins/DeluxeMenus/gui_menus
-```
-
-2. Перетащите все файлы меню в указанную папку
-3. Добавьте пункты для создания меню в `plugins/DeluxeMenus/config.yml`
-
-> Убедитесь, что все используемые меню загружены в DeluxeMenus.
+***Все меню надо прописать в основной конфигурации `plugins/DeluxeMenus/config.yml`***
 
 ---
 
@@ -137,19 +96,17 @@ plugins/DeluxeMenus/gui_menus
 
 ### Обновление ресурс-пака:
 
-> Можно использовать Nexo, ItemsAdder для генерации и обновления ресурс пака. (в ItemsAdder в конфигурации надо проверить установку model engine рп:
+> Можно использовать Nexo, ItemsAdder для генерации и обновления ресурс пака. Проверьте что в ItemsAdder у вас подхватывается ресурспак из ModelEngine:
 ```
 merge_other_plugins_resourcepacks_folders:
     - ModelEngine/resource pack
 ```
-
 ---
 
-## Добавление звуков (опционально)
+## Добавление звуков (НЕДОСТУПНО!)
 
 Если вы хотите добавить звуки к сценам, у вас есть два варианта:
 
-### **Для людей которые используют сборку всех сливов от Kanorto это не требуется**
 
 ### Option 1: Через плагин-менеджер ресурспаков
 
@@ -214,12 +171,12 @@ interact_1:
 ```bash
 /mm pins create [ pack (выберите один из предложенных паков в чате) ] [ Pin's name ]
 ```
+> **Важно:** Не используйте `Mythic` как pack — это не будет работать.  
+> Если не видите доступный pack, создайте новый и поместите его в папку `mythicmobs/packs`(создайте новую папку лол).
 
 3. Имя Pin'а можно найти в описании NPC в сцене.  
     Примеры: `mine1`, `mine2`, `farm3`, `farm4`, `lumberjack5`, `lumberjack6`
 
-> **Важно:** Не используйте `Mythic` как pack — это не будет работать.  
-> Если не видите доступный pack, создайте новый и поместите его в папку `mythicmobs/packs`(создайте новую папку лол).
 
 
 
